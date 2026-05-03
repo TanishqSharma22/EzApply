@@ -1,0 +1,13 @@
+# Dependencies
+ezapply-backend/node_modules
+ezapply-frontend/node_modules
+
+# Environment files
+ezapply-backend/.env
+ezapply-frontend/.env
+
+# Build files
+ezapply-frontend/dist
+
+# Logs
+*.log
